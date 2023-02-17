@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\17.01.06\obj\Debug\net6.0\17.01.06.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\17.01.06\obj\Debug\net6.0\17.01.06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\17.01.06\obj\Debug\net6.0\17.01.06.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\17.01.06\obj\Debug\net6.0\17.01.06.AssemblyInfo.cs
+C:\Users\admin\Desktop\17.01.06\obj\Debug\net6.0\17.01.06.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\17.01.06\bin\Debug\net6.0\17.01.06.exe
+C:\Users\admin\Desktop\17.01.06\bin\Debug\net6.0\17.01.06.deps.json
+C:\Users\admin\Desktop\17.01.06\bin\Debug\net6.0\17.01.06.runtimeconfig.json
+C:\Users\admin\Desktop\17.01.06\bin\Debug\net6.0\17.01.06.dll
+C:\Users\admin\Desktop\17.01.06\bin\Debug\net6.0\17.01.06.pdb
+C:\Users\admin\Desktop\17.01.06\obj\Debug\net6.0\17.01.06.dll
+C:\Users\admin\Desktop\17.01.06\obj\Debug\net6.0\refint\17.01.06.dll
+C:\Users\admin\Desktop\17.01.06\obj\Debug\net6.0\17.01.06.pdb
+C:\Users\admin\Desktop\17.01.06\obj\Debug\net6.0\17.01.06.genruntimeconfig.cache
+C:\Users\admin\Desktop\17.01.06\obj\Debug\net6.0\ref\17.01.06.dll
