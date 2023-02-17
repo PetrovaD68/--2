@@ -1,18 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-//Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
-int number = ReadInt("Введите трехзначное число: ");
-int amount = number.ToString().Length;
 
-if (amount < 3 || amount > 3)
-{
-    Console.WriteLine("Вы ввели не трехзначное число");
-}
-else
-{
-    Console.WriteLine(InCenter(number));
-}
 
+int number = ReadInt("Введите число: ");
+int count = number.ToString().Length;
+Console.Write(MakeArray(number, count));
 
 int ReadInt(string message)
 {
@@ -20,10 +11,22 @@ int ReadInt(string message)
     return Convert.ToInt32(Console.ReadLine());
 }
 
-int InCenter(int a)
+int MakeArray(int a, int b)
 {
-    
-    int result = ((a / 10) % 10);
-    return result;
-}
+int result = 0;
+    if (b < 3)
+    {
+        Console.Write("Третьей цифры нет: ");
+    }
+    else
+    {
+        int c = 1;
+        for (int i = b; i > 3; i--)
+        {
+            c = c * 10;
+        }
 
+        result = (a / c) % 10;
+    }
+return result;
+}
